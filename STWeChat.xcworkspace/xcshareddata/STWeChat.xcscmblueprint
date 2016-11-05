@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "850268F93693E17EF01EA44921F38EB856CF8FAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "850268F93693E17EF01EA44921F38EB856CF8FAC" : 9223372036854775807,
+    "62B5C66E6FD67254215AFEBA65F42EB743373154" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F92ADCFD-7AC0-4BB1-8C1B-0CE31771938A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "850268F93693E17EF01EA44921F38EB856CF8FAC" : "STWeChat\/",
+    "62B5C66E6FD67254215AFEBA65F42EB743373154" : "iOSAppBase\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "STWeChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "STWeChat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yangxiaodongcn\/iOSAppBase.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62B5C66E6FD67254215AFEBA65F42EB743373154"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yangxiaodongcn\/STWeChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "850268F93693E17EF01EA44921F38EB856CF8FAC"
+    }
+  ]
+}
